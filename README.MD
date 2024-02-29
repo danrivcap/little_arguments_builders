@@ -1,6 +1,6 @@
 # Little argument builders
 
-This is the repo for the blog post []
+This is the repo for the blog post [Con pocos argumentos](https://danrivcap.wordpress.com/2024/02/29/con-pocos-argumentos/)
 
 It contains a sample for building the builder pattern with the Address object, it demostrate the following concepts:
 * How to avoid long parameter list with Builder pattern.
